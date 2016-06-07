@@ -1,4 +1,4 @@
-# Binary-Database
+# Binary-Database-Engine
 Rudimentary Database using Index Files
 
 To run the project
